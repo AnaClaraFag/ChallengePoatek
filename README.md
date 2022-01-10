@@ -2,7 +2,7 @@
 
 # Tecnologs  🛠️
 
-- [x] IDE: intellij idea;
+- [x] IDE: Intellij idea;
 - [x] Language: Kotlin;
 
 # How to run 🖥️
