@@ -17,11 +17,18 @@ $ git clone https://github.com/AnaClaraFag/ChallengePoatek
 ```bash
 $ git pull 
 ```
-
+```bash
  Open the IntelliJ Idea
- Click on File
+```
+```bash
+  Click on File
+  ```
+  ```bash
  Select Open 
+ ```
+ ```bash
  Find the project in the file and select
+ ```
 	
 ```
 Finally click on Run ▶
