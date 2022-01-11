@@ -1,6 +1,6 @@
 # ChallengePoatek
 
-# Tecnologs  🛠️
+# Technologies  🛠️
 
 - [x] IDE: Intellij idea;
 - [x] Language: Kotlin;
